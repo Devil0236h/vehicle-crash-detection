@@ -93,3 +93,4 @@ Users are encouraged to:
 *Fix bugs
 *Add new features
 *Use it as a learning project
+
