@@ -5,8 +5,8 @@ mechanisms. The system employs object detection technology based on TensorFlow t
 
 
 2. Installation:-
-*Install Python (version 3.10 or Other Versions may work depending on compatibility) from the official website: Python.
-*Install a Python IDE preferably PyCharm or VS code.
+*Install Python (version 3.19(python 19) or Other Versions may work depending on compatibility) from the official website: Python.
+*Install a Python IDE preferably  VS code.
 *Install the required dependencies ( check the imports in the code).
 *Run the Application from the main.py file in the IDE.
 
